@@ -1,1 +1,1 @@
-# <centre>mot1onplay.github.io</centre>
+# <p align="center">mot1onplay.github.io</p>
