@@ -1,13 +1,12 @@
  # <p align="center">motionplay</p>
+ <p align="center">
+  <img src="/images/tree.png?text=Gameplay+Demo+(replace+with+real+screenshot)" alt="Gameplay screenshot" width="800"/>
+</p>
  **************************
 **Experience the future of gaming — control games with your body movements!**  
 No controllers. No keyboard. Just you and real-time pose detection.
 
 https://github.com/your-username/move-your-body-to-play
-
-<p align="center">
-  <img src="/images/tree.png?text=Gameplay+Demo+(replace+with+real+screenshot)" alt="Gameplay screenshot" width="800"/>
-</p>
 
 ## 🎮 What is this?
 
